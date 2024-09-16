@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1726448113.140983
+    "timestamp": 1726467401.826816
   },
   "modules": [
     {
@@ -2119,6 +2119,14 @@
           "versionCode": 1000,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/ezme-nodebug/v1_1000.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1663012287.0,
+          "version": "v2021.11.3",
+          "versionCode": 202111030,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/ezme-nodebug/v2021.11.3_202111030.zip",
+          "changelog": "",
+          "size": 3402
         }
       ]
     },
