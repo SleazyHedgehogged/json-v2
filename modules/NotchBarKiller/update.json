@@ -1,0 +1,14 @@
+{
+  "id": "NotchBarKiller",
+  "timestamp": 1598910235.0,
+  "versions": [
+    {
+      "timestamp": 1598910235.0,
+      "version": "v5",
+      "versionCode": 6,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/NotchBarKiller/v5_6.zip",
+      "changelog": "",
+      "size": 19673
+    }
+  ]
+}
