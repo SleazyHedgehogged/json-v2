@@ -8,6 +8,14 @@
       "versionCode": 1,
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Google-Sans-Plus/v1.0_1.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1598227265.0,
+      "version": "v1.0.1",
+      "versionCode": 101,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Google-Sans-Plus/v1.0.1_101.zip",
+      "changelog": "",
+      "size": 23286386
     }
   ]
 }

@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1729212876.149286
+    "timestamp": 1729232203.416898
   },
   "modules": [
     {
@@ -620,6 +620,14 @@
           "versionCode": 1,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Google-Sans-Plus/v1.0_1.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1598227265.0,
+          "version": "v1.0.1",
+          "versionCode": 101,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Google-Sans-Plus/v1.0.1_101.zip",
+          "changelog": "",
+          "size": 23286386
         }
       ]
     },
