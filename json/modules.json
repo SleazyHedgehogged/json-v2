@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1730096275.179074
+    "timestamp": 1730118176.238821
   },
   "modules": [
     {
@@ -1607,8 +1607,8 @@
     {
       "id": "audio-misc-settings",
       "name": "Audio misc. settings",
-      "version": "v1.3.8",
-      "versionCode": 1308,
+      "version": "v1.3.9",
+      "versionCode": 1309,
       "author": "zyhk",
       "description": "Setting audio misc. configuration values (e.g. 100 volume steps, raising the resampling quality, disabling the effects framework, etc.)",
       "added": 1719067615.478443,
@@ -1616,8 +1616,8 @@
       "license": "AGPL-3.0",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
       "verified": false,
-      "timestamp": 1722148270.0,
-      "size": 26205,
+      "timestamp": 1730102034.0,
+      "size": 27320,
       "features": {
         "service": true,
         "post_fs_data": true,
@@ -1643,6 +1643,14 @@
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/audio-misc-settings/v1.3.8_1308.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/audio-misc-settings/v1.3.8_1308.md",
           "size": 26205
+        },
+        {
+          "timestamp": 1730102034.0,
+          "version": "v1.3.9",
+          "versionCode": 1309,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/audio-misc-settings/v1.3.9_1309.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/audio-misc-settings/v1.3.9_1309.md",
+          "size": 27320
         }
       ]
     },
