@@ -1,0 +1,14 @@
+{
+  "id": "ThemedProject",
+  "timestamp": 1727473830.0,
+  "versions": [
+    {
+      "timestamp": 1727473830.0,
+      "version": "v0.22.2",
+      "versionCode": 222,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/ThemedProject/v0.22.2_222.zip",
+      "changelog": "",
+      "size": 24877452
+    }
+  ]
+}
