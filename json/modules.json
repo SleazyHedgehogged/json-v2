@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1731154769.014572
+    "timestamp": 1731176030.848471
   },
   "modules": [
     {
@@ -1317,8 +1317,8 @@
     {
       "id": "StevenBlock",
       "name": "StevenBlock | Anti-Malware & Ad Blocker",
-      "version": "v1.2.5",
-      "versionCode": 26,
+      "version": "v1.5.0",
+      "versionCode": 51,
       "author": "\ud835\udde6\ud835\uddf5\ud835\udddf\ud835\uddf2\ud835\uddff\ud835\udde3",
       "description": "Your digital bodyguard. This Magisk module zaps ads and malware, keeping your apps squeaky clean and your browsing buttery smooth. Surf smart, surf safe! \ud83d\udee1\ufe0f\ud83d\ude80",
       "added": 1719068231.151094,
@@ -1327,8 +1327,8 @@
       "license": "GPL-2.0",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/StevenBlock/main/README.md",
       "verified": false,
-      "timestamp": 1721045975.329194,
-      "size": 1114729,
+      "timestamp": 1731176011.112052,
+      "size": 858934,
       "features": {},
       "track": {
         "type": "ONLINE_JSON",
@@ -1336,14 +1336,6 @@
         "source": "https://github.com/Magisk-Modules-Alt-Repo/StevenBlock.git"
       },
       "versions": [
-        {
-          "timestamp": 1720528101.965505,
-          "version": "v1.2.3",
-          "versionCode": 24,
-          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/StevenBlock/v1.2.3_24.zip",
-          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/StevenBlock/v1.2.3_24.md",
-          "size": 1089037
-        },
         {
           "timestamp": 1720832678.346521,
           "version": "v1.2.4",
@@ -1359,6 +1351,14 @@
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/StevenBlock/v1.2.5_26.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/StevenBlock/v1.2.5_26.md",
           "size": 1114729
+        },
+        {
+          "timestamp": 1731176011.112052,
+          "version": "v1.5.0",
+          "versionCode": 51,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/StevenBlock/v1.5.0_51.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/StevenBlock/v1.5.0_51.md",
+          "size": 858934
         }
       ]
     },
