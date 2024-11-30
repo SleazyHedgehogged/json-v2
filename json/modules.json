@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1732904187.818487
+    "timestamp": 1732928226.838695
   },
   "modules": [
     {
@@ -3750,8 +3750,8 @@
     {
       "id": "ttf-twemoji",
       "name": "Twemoji replacer",
-      "version": "v15.0.2",
-      "versionCode": 1502,
+      "version": "v15.1.0",
+      "versionCode": 1510,
       "author": "ez-me & Twitter",
       "description": "Changes your system emoji to Twemoji!",
       "added": 1719068292.839718,
@@ -3759,8 +3759,8 @@
       "license": "MIT",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ttf-twemoji/main/README.md",
       "verified": false,
-      "timestamp": 1701825089.0,
-      "size": 5663280,
+      "timestamp": 1732925606.0,
+      "size": 2902376,
       "features": {},
       "track": {
         "type": "GIT",
@@ -3775,6 +3775,14 @@
           "versionCode": 1502,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/ttf-twemoji/v15.0.2_1502.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1732925606.0,
+          "version": "v1.5.7",
+          "versionCode": 1507,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/ttf-twemoji/v1.5.7_1507.zip",
+          "changelog": "",
+          "size": 2902376
         }
       ]
     },
