@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1734200118.061015
+    "timestamp": 1734224662.288488
   },
   "modules": [
     {
@@ -91,7 +91,6 @@
       "verified": false,
       "timestamp": 1615045465.0,
       "size": 8535855,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1719067626.83773,
@@ -251,7 +250,6 @@
       "verified": false,
       "timestamp": 1663827433.0,
       "size": 9972259,
-      "features": {},
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719067742.043893,
@@ -429,7 +427,6 @@
       "verified": false,
       "timestamp": 1685699521.0,
       "size": 494914,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1719067837.604001,
@@ -603,7 +600,6 @@
       "verified": false,
       "timestamp": 1598228686.0,
       "size": 5031554,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1719067916.317884,
@@ -642,7 +638,6 @@
       "verified": false,
       "timestamp": 1598227265.0,
       "size": 23286386,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1719067922.216497,
@@ -959,7 +954,6 @@
       "verified": false,
       "timestamp": 1725646455.233123,
       "size": 8785844,
-      "features": {},
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719068038.972528,
@@ -1195,7 +1189,6 @@
       "verified": false,
       "timestamp": 1624492127.0,
       "size": 21356,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1719068103.525852,
@@ -1225,7 +1218,6 @@
       "verified": false,
       "timestamp": 1645367235.0,
       "size": 9299,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1719068155.306824,
@@ -1408,7 +1400,6 @@
       "verified": false,
       "timestamp": 1731176011.112052,
       "size": 858934,
-      "features": {},
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719068231.151094,
@@ -1525,7 +1516,6 @@
       "verified": false,
       "timestamp": 1683467033.0,
       "size": 2220084,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1719068298.85148,
@@ -1617,7 +1607,8 @@
       "size": 5316,
       "features": {
         "service": true,
-        "post_fs_data": true
+        "post_fs_data": true,
+        "action": true
       },
       "track": {
         "type": "ONLINE_JSON",
@@ -1666,7 +1657,6 @@
       "verified": false,
       "timestamp": 1697485290.0,
       "size": 202516,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1719067587.391638,
@@ -1782,7 +1772,6 @@
       "verified": false,
       "timestamp": 1599015487.0,
       "size": 16270,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1719067621.067182,
@@ -1827,7 +1816,6 @@
       "verified": false,
       "timestamp": 1638831717.0,
       "size": 4295,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1719067713.891191,
@@ -1972,7 +1960,6 @@
       "verified": false,
       "timestamp": 1727548125.0,
       "size": 689090,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1719067736.641686,
@@ -2020,7 +2007,6 @@
       "verified": false,
       "timestamp": 1598574218.0,
       "size": 16024,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1719067759.135986,
@@ -2068,7 +2054,6 @@
       "verified": false,
       "timestamp": 1713163766.0,
       "size": 17267,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1719067769.982062,
@@ -2140,7 +2125,6 @@
       "verified": false,
       "timestamp": 1686425610.0,
       "size": 3238593,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1719067792.7473,
@@ -2171,7 +2155,6 @@
       "verified": false,
       "timestamp": 1670983400.0,
       "size": 15011,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1719067798.379322,
@@ -2202,7 +2185,6 @@
       "verified": false,
       "timestamp": 1686221785.0,
       "size": 2839164,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1719067804.121463,
@@ -2267,7 +2249,6 @@
       "verified": false,
       "timestamp": 1639484648.0,
       "size": 42097,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1719067826.378144,
@@ -2495,7 +2476,6 @@
       "verified": false,
       "timestamp": 1673245267.0,
       "size": 3549,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1719067881.946281,
@@ -2568,7 +2548,6 @@
       "verified": false,
       "timestamp": 1652409636.0,
       "size": 5134381,
-      "features": {},
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719067893.603234,
@@ -2598,7 +2577,6 @@
       "verified": false,
       "timestamp": 1659743807.0,
       "size": 2464348,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1719067945.708869,
@@ -2636,7 +2614,6 @@
       "verified": false,
       "timestamp": 1693645620.0,
       "size": 500165,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1719067957.555546,
@@ -2667,7 +2644,6 @@
       "verified": false,
       "timestamp": 1710968944.0,
       "size": 5483,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1719067963.34456,
@@ -2698,7 +2674,6 @@
       "verified": false,
       "timestamp": 1703514265.0,
       "size": 27887,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1719067970.037327,
@@ -2728,7 +2703,6 @@
       "verified": false,
       "timestamp": 1652933875.0,
       "size": 4150924,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1719067987.514888,
@@ -2759,7 +2733,6 @@
       "verified": false,
       "timestamp": 1703143514.0,
       "size": 327772,
-      "features": {},
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719067992.960715,
@@ -3074,7 +3047,6 @@
       "verified": false,
       "timestamp": 1668837132.0,
       "size": 4854953,
-      "features": {},
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719068109.355209,
@@ -3105,7 +3077,6 @@
       "verified": false,
       "timestamp": 1728300864.0,
       "size": 2586885,
-      "features": {},
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719068114.940889,
@@ -3145,7 +3116,6 @@
       "verified": false,
       "timestamp": 1682263480.0,
       "size": 8572286,
-      "features": {},
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719068120.536177,
@@ -3210,7 +3180,6 @@
       "verified": false,
       "timestamp": 1661242317.0,
       "size": 4022,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1719068135.57275,
@@ -3281,7 +3250,6 @@
       "verified": false,
       "timestamp": 1691055436.0,
       "size": 1312005,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1719068149.393722,
@@ -3333,7 +3301,6 @@
       "verified": false,
       "timestamp": 1729309481.0,
       "size": 18557824,
-      "features": {},
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719068160.569835,
@@ -3371,7 +3338,6 @@
       "verified": false,
       "timestamp": 1659744733.0,
       "size": 2111669,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1719068166.665426,
@@ -3584,7 +3550,6 @@
       "verified": false,
       "timestamp": 1733952052.0,
       "size": 2640647,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1719068225.667242,
@@ -3665,7 +3630,6 @@
       "verified": false,
       "timestamp": 1734003934.0,
       "size": 477215,
-      "features": {},
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719068242.529812,
@@ -3780,7 +3744,6 @@
       "verified": false,
       "timestamp": 1732925606.0,
       "size": 2902376,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1719068292.839718,
@@ -3859,7 +3822,6 @@
       "verified": false,
       "timestamp": 1659745041.0,
       "size": 3677980,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1719068311.023353,
@@ -3940,7 +3902,6 @@
       "verified": false,
       "timestamp": 1598025275.0,
       "size": 17311,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1719068323.858956,
@@ -4086,7 +4047,6 @@
       "verified": false,
       "timestamp": 1697914942.0,
       "size": 21762,
-      "features": {},
       "track": {
         "type": "ONLINE_JSON",
         "added": 1719068341.238523,
