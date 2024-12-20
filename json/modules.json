@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1734656120.094629
+    "timestamp": 1734675410.91569
   },
   "modules": [
     {
@@ -3534,6 +3534,14 @@
           "versionCode": 3,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/sensitive_props/v3_3.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1707749983.0,
+          "version": "v1.0",
+          "versionCode": 20220806,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/sensitive_props/v1.0_20220806.zip",
+          "changelog": "",
+          "size": 16172
         }
       ]
     },
