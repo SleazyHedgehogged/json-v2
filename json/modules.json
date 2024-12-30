@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1735539444.605479
+    "timestamp": 1735561324.995359
   },
   "modules": [
     {
@@ -944,16 +944,16 @@
     {
       "id": "Malwack",
       "name": "Malwack | Anti-Malware & Ad Blocker",
-      "version": "v5.0.2",
-      "versionCode": 28,
+      "version": "v5.0.3",
+      "versionCode": 29,
       "author": "Person0z",
       "description": "Ever wanted to get rid of those annoying ads that pop every 2 seconds in mobile games you're playing or websites you are visiting? Well, look no further with Malwack, your defense against ads!",
       "added": 1719068038.972528,
       "support": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/issues",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/main/README.md",
       "verified": false,
-      "timestamp": 1735215702.914878,
-      "size": 5024277,
+      "timestamp": 1735561306.373886,
+      "size": 4984284,
       "features": {
         "service": true,
         "action": true
@@ -965,14 +965,6 @@
         "antifeatures": null
       },
       "versions": [
-        {
-          "timestamp": 1735174467.072752,
-          "version": "v4.2.7",
-          "versionCode": 24,
-          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Malwack/v4.2.7_24.zip",
-          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Malwack/v4.2.7_24.md",
-          "size": 5852430
-        },
         {
           "timestamp": 1735193813.409119,
           "version": "v5.0.1",
@@ -988,6 +980,14 @@
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Malwack/v5.0.2_28.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Malwack/v5.0.2_28.md",
           "size": 5024277
+        },
+        {
+          "timestamp": 1735561306.373886,
+          "version": "v5.0.3",
+          "versionCode": 29,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Malwack/v5.0.3_29.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Malwack/v5.0.3_29.md",
+          "size": 4984284
         }
       ]
     },
